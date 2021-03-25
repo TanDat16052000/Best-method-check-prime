@@ -11,7 +11,6 @@ bool isPrime(int value) {
         if (value % (i + 2) == 0 || value % (i + 4) == 0) return false;
     return true;
 }
-//TEST
 int main(int argc, char** argv) {
     for (int i = 0; i < 100; i++)
         if (isPrime(i))cout << i << " ";
