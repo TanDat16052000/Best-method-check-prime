@@ -1,0 +1,3 @@
+C:/Users/Dat/CLionProjects/Best-method-check-prime/cmake-build-debug/CMakeFiles/Best_method_check_prime.dir
+C:/Users/Dat/CLionProjects/Best-method-check-prime/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dat/CLionProjects/Best-method-check-prime/cmake-build-debug/CMakeFiles/rebuild_cache.dir
